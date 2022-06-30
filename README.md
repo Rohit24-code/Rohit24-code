@@ -50,3 +50,19 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/rohit-singh-423264202/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rohit-singh-423264202/" />
+    </a>
+    <a title="rohitsingh17031995@gmail.com" href="mailto:rohitsingh17031995@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rohitsingh17031995@gmail.com" />
+    </a>
+</p>
+<br>
+

@@ -18,7 +18,7 @@
 <br>
 
 
-- 🔭 I’m currently working on Zomato 
+
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on React.js
 - 🤔 I’m looking for help with aws

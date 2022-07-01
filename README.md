@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU"/>
+<img  align="right" width:"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-code24" alt="rohit-code24" /></a> </p>
 

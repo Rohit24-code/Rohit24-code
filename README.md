@@ -23,10 +23,10 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat">
+    <a href="https://github.com/Rohit24-code">
         <img src="https://komarev.com/ghpvc/?username=Rohit24-code&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit" />
     </a>
-    <a href="https://github.com/m-sehrawat?tab=followers">
+    <a href="https://github.com/Rohit24-code?tab=followers">
         <img src="https://img.shields.io/github/followers/Rohit24-code?label=Followers&style=social" alt="followers-count">
     </a>
 </p>

@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hey
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyd-s4D7Pw5WNz_-TqwL7OxAkVLiRdpZTimg&usqp=CAU" width="35"> 
+    👋
     I'm Rohit Singh
    
  

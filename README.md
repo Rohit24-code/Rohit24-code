@@ -56,6 +56,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit24-code&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Rohit" height="139" />
 </p>
 
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit24-code&theme=dark" alt="Rohit24-code" /></p>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 

@@ -18,7 +18,7 @@
 
 <br>
 
-## Some Facts 🎈:
+## Some Facts 🎈:-
 <!--<img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">--!> 
 
 <img align="left" height="150" src="https://github.com/krunalbhandekar/krunalbhandekar/blob/main/assets/gif.png" alt="octocat" style="margin-right: 2rem;"/>

@@ -25,7 +25,7 @@
 
 • 🔭 I’m constantly working on <b>learning new skills!.</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Full Stack Development</b>.<br/>
+• 💬 Ask me about <b>Full Stack Web Development</b>.<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/rohit-singh-423264202/"><b>Rohit singh</b></a><br/>
 • 📄 Visit my Resume <a href="https://drive.google.com/file/d/1E7AlJJHrioQzJB5A56fUpws6bIwY_Tkl/view?usp=sharing"><b>Resume</b></a><br/>
     
